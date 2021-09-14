@@ -1,0 +1,25 @@
+#search{
+    background-color:rgb(240, 235, 230);
+    color:teal;
+    width: 100px;
+    border: 1px teal solid;
+    border-radius: 10px ;
+    margin: 15x;
+    
+}
+
+#plus{
+    background-color: mediumaquamarine;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+#c_account{
+    background-color:dodgerblue;
+    color: white;
+    padding: 5px;
+    width: 150px;
+    box-shadow:0.2em 0.2rem black;
+   }
